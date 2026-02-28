@@ -28,8 +28,10 @@ Não possui enunciado.
 
 ## Evolução do Projeto (Tags)
 
-<lista de links para as tags do projeto>
+- [Projeto][1]
 
 ## Objetivo Educacional
 
 Este projeto **não tem como foco a solução final perfeita**, mas sim o processo de aprendizado e a comparação entre abordagens diferentes para o mesmo problema.
+
+[1]: https://github.com/jspneto/csharp-estudos-codigos-soltos/tree/main/Projeto "projeto"
