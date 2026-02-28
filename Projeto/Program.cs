@@ -1,4 +1,6 @@
-﻿namespace Projeto;
+﻿using Projeto.Src;
+
+namespace Projeto;
 
 class Program
 {
@@ -8,7 +10,7 @@ class Program
         {
             Console.WriteLine("Lista de exemplos aplicados:");
             Console.WriteLine();
-            Console.WriteLine("    Sem exemplos aplicados");
+            Console.WriteLine("1   — Structs");
 
             Console.WriteLine();
             Console.Write("Digite o número do exemplo que deseja executar ou 0 para sair: ");
@@ -22,7 +24,17 @@ class Program
             else
             {
                 Console.WriteLine();
-                continue;
+
+                if (escolha == "1")
+                {
+                    Structs.Exemplo();
+                }
+                else
+                {
+                    continue;
+                }
+
+                Console.WriteLine();
             }
         }
     }
