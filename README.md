@@ -1,20 +1,17 @@
-# Nome Completo do Projeto
+# Códigos Gerais de Exemplo
 
-<descrição resumida do projeto>
+Códigos de exemplo que não pertencem a nenhum problema.
 
 Este projeto foi desenvolvido de forma incremental, registrando a evolução do código em uma abordagem **orientada a objetos**.
 
 ## Conceitos Trabalhados
 
-- Implementação procedural (quando solicitado)
-- Classes, métodos e sobrescrita (Override)
-- Métodos e classes estáticas (quando aplicável)
-- Construtores e sobrecarcaga (Overload)
-- Encapsulamento, Properties e Auto-Properties (quando aplicável)
+- Nenhum conceito específico.
+- Aplica exemplos gerais pra métodos e estruturas em C#.
 
 ## Enunciado do Projeto
 
-<descrição detalhada do problema resolvido no projeto>
+Não possui enunciado.
 
 ## Estrutura do Projeto
 
