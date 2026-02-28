@@ -18,6 +18,8 @@ Não possui enunciado.
 ```bash
 |- Projeto/
    |- Img/
+   |- Src/
+      |- Structs.cs
    |- Program.cs
    |- Projeto.csproj
    |- Projeto.sln
@@ -29,9 +31,11 @@ Não possui enunciado.
 ## Evolução do Projeto (Tags)
 
 - [Projeto][1]
+  - [Structs][2]
 
 ## Objetivo Educacional
 
 Este projeto **não tem como foco a solução final perfeita**, mas sim o processo de aprendizado e a comparação entre abordagens diferentes para o mesmo problema.
 
 [1]: https://github.com/jspneto/csharp-estudos-codigos-soltos/tree/main/Projeto "projeto"
+[2]: https://github.com/jspneto/csharp-estudos-codigos-soltos/blob/main/Projeto/Src/Structs.cs "structs"
