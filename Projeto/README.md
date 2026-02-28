@@ -1,16 +1,16 @@
-# Nome Completo do Projeto
+# Códigos Gerais de Exemplo
 
-<descrição resumida do projeto>
+Códigos de exemplo que não pertencem a nenhum problema.
 
 ## Detalhes Gerais
 
-- **Versão**: <número da tag>
-- **Conceito aplicado:** <nome do conceito>
+- **Versão**: Sem versionamento
+- **Conceito aplicado:** Sem conceito específico
 
 ## Descrição da Tag
 
-<texto de descrição da tag>
+Exemplo de execução genérico.
 
 ## Exemplo de Execução
 
-<img src="Img/HelloWorld.png" alt="Versão Padrão" width="936">
+<img src="Img/ExemploExecucao.png" alt="Versão Padrão" width="936">
